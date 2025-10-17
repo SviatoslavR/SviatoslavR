@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SviatoslavR&color=brightgreen&style=for-the-badge&label=Profile+Views)
-![Visitors](https://count.getloli.com/get/@SviatoslavR?theme=3d-num)
+
 <!--
 **SviatoslavR/SviatoslavR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
